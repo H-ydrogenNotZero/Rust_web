@@ -12,16 +12,16 @@
 // Global Site Config
 //======================================================================
 
-	define( "SITE_URL" , "https://rust.krasin.space/" );
+	define( "SITE_URL" , "https://h-ydrogennotzero.github.io/Rust_web/" );
 	# Your website URL
 
-	define( "SRV_NAME" , "Mega Awesome Servers" );
+	define( "SRV_NAME" , "HNZ Rust" );
     # Server or project name, will be used as title
 
     define( "SRV_SLOGAN" , "Mega Awesome Servers Slogan" );
     # Server or project slogan, will be used as slogan and description
 
-    define( "SRV_TWITTER" , "Mo_45" );
+    define( "SRV_TWITTER" , "" );
     # Your server twitter username without @ (will be used in twitter meta tags and social links)
 
 	define( "CACHE_LIFETIME" , "0" );
@@ -45,14 +45,14 @@
 	define( "MODULE_DISCORD" , "ON" );
     # Discord Server module, ON/OFF
 
-    define( "DISCORD_SERVER_ID" , "450335953488314368" );
+    define( "DISCORD_SERVER_ID" , "664398094347010058" );
     # Discord Server ID, Discord App -> Your Server -> Server Settings -> Widget -> Server ID
 
-    define( "DISCORD_INVITE_LINK" , "https://discord.gg/DwP27EJ" );
+    define( "DISCORD_INVITE_LINK" , "https://discord.gg/HMpwJYa" );
     # Discord Server Invite Link, Discord App -> Your Server -> Server Settings -> Invites -> Create One (Set this link to never expire)
 
 	/* How to find Steam Group ID 64 - https://support.multiplay.co.uk/support/solutions/articles/1000202859 */
-    define( "STEAM_GID" , "103582791435542737" );
+    define( "STEAM_GID" , "" );
 	# Your Steam Group ID64
 
 	define( "MODULE_STORE" , "ON" );
@@ -61,7 +61,7 @@
 	define( "MODULE_PRICING" , "ON" );
 	# Pricing Table, ON/OFF
 
-	define( "STORE_URL" , "https://rust.krasin.space/#store" );
+	define( "STORE_URL" , "https://h-ydrogennotzero.xyz/shop/" );
 	# URL to your store
 
 	define( "MODULE_FAQ" , "ON" );
